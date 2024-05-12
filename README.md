@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning ... **Python, R Language**
 - 💞️ I’m looking to collaborate on ... **Python and SQL open-source projects**
 - 📫 How to reach me ... **shruti.mishra704@gamil.com**
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...**I'm currently perusing my Data Analyst course**
 
 <!---
