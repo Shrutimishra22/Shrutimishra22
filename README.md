@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...**Making repositories of things i have been learning**
 - 🌱 I’m currently learning ... **Python, R Language**
 - 💞️ I’m looking to collaborate on ... **Python and SQL open-source projects**
-- 📫 How to reach me ... **shruti.mishra704@gamil.com**
+- 📫 How to reach me ... **shrutimishra2298@outlook.com**
 - ⚡ Fun fact: ...**I'm currently perusing my Data Analyst course**
 
 <!---
