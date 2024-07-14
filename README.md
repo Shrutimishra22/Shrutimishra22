@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently using and mastering Tools like SQL, Tableau, Excel and Power BI.<br>💫 Experience: Data Analyst and Business Analyst Intern @MeriSkill and @ConTechxs Solutions Pvt.Ltd.<br>👯 I’m looking to collaborate on: Data Analyst Projects.<br>💬 Ask me about: Data, SQL, Python, Power Bi, Excel and Analytics.<br>🌻 I am available for : Data Analyst role.<br>📫 How to reach me:  Email :- shrutimishra@outlook.com<br><br>
+🌱 I’m currently using and mastering Tools like SQL, Tableau, Excel and Power BI.<br>💫 Experience: Data Analyst and Business Analyst Intern @MeriSkill and @ConTechxs Solutions Pvt.Ltd.<br>👯 I’m looking to collaborate on: Data Analyst Projects.<br>💬 Ask me about: Data, SQL, Python, Power Bi, Excel and Analytics.<br>🌻 I am available for : Data Analyst role.<br>📫 How to reach me:  Email :- shrutimishra2298@outlook.com<br><br>
 
 
 ## 🌐 Socials:
